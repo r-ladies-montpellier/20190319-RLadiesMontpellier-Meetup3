@@ -2,7 +2,7 @@
 
 # Third meetup R-Ladies Montpellier: "From Data to Viz: A classification of chart types bassed on input data format"
 
-- Speaker: [Yan Holtz](https://github.com/holtzy).
+- Speaker: [Yan Holtz](https://github.com/holtzy/Talk/blob/master/2019/Talk_DatavizMeetup_Montpellier2019.pdf).
 
 At this MeetUp Yan will talked about the philosophy behind Data to Viz.
 Topics included:
